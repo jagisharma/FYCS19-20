@@ -2,5 +2,4 @@
 main()
 {
 print("Hello World")
-print("Bye Bye")
 }
