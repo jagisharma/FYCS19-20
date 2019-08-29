@@ -2,5 +2,5 @@
 main()
 {
 print("Hello World")
-print"Bye Bye"
+print("Bye Bye")
 }
